@@ -19,3 +19,4 @@
 
 >`pip install sodapy`  
 > Documentation: [Sodapy](https://dev.socrata.com/)
+>`After all installations run the command "Python DashApp.py" to launch the website`  
