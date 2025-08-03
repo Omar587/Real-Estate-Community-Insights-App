@@ -1,5 +1,5 @@
 ### Libraries required currently to run this project.  
-#### Basic python libraries
+#### Basic python libraries, After all installations the command type "Python3 DashApp.py" in the terminal to launch the website. 
 >`pip install pandas`  
 > Documentation: [Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html)
 
@@ -19,4 +19,5 @@
 
 >`pip install sodapy`  
 > Documentation: [Sodapy](https://dev.socrata.com/)
->`After all installations run the command "Python DashApp.py" to launch the website`  
+
+
